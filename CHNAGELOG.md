@@ -80,4 +80,12 @@ Version 2.1.0 *(2016.10.28)*
 * remove Application label in manifest
 * add method to make viewpager snap on tab click
 
+Version 2.1.2 *(2017.1.23)*
+----------------------------
+* update compileSdkVersion to 25, buildToolsVersion to "25.0.2"
+
+Version 3.0.0 *(2021.09.30)*
+----------------------------
+* AndroidX & publish on Maven Central
+
 
